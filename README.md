@@ -1,7 +1,11 @@
-# Servidor simples Apache Docker
+# Servidor Apache Docker
+
+### Servidor simples Docker + docker compose
+
+Para usar os containers, é necessário ter o Docker e o Docker Compose instalados. O aplicativo está disponível em [http://localhost/](http://localhost/) e o phpMyAdmin está rodando na porta 88 [http://localhost:88/](http://localhost:88/).
 
 - Apache
-- php 7.4
+- PHP 7.4
 - MariaDB
 - phpMyAdmin
 - Redis
